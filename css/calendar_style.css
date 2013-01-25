@@ -1,0 +1,70 @@
+td{
+	vertical-align:middle;
+	text-align:center;
+	width:20px;
+}
+
+#datePicker{
+	display:block;
+	width:160px;
+}
+
+.calendar{
+	border:black double 2px;
+	border-radius:2px;
+	background-color:rgb(225,225,225);
+}
+
+.laborate{
+	color:green;
+}
+
+.weekend{
+	color:red;
+}
+
+.headerDays{
+	border-bottom:black 5px solid;
+	font-size:10;
+}
+
+.header{
+	font-size:14
+}
+
+.prevLastMonthDays{
+	background-color:#99CCCC;
+	color:white;
+	font-size:9;
+}
+
+.day{
+	/*border-left:black 2px solid;*/
+	cursor:hand;
+	font-size:12;
+}
+
+.today{
+	/*color: #800909;*/
+	color: yellow;
+}
+
+.notToday{
+	color:white;
+}
+
+.weekendDay{
+	background-color:rgb(10,85,120)/*#00477D*/;
+}
+
+.notWeekendDay{
+	background-color:#149EBA;
+}
+
+.handCursor{
+	cursor: hand;
+}
+
+.calendar{
+	display:block;
+}
